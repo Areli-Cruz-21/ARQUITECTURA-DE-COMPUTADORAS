@@ -1,0 +1,49 @@
+SSD (Solid State Drive)
+
+Unidad de Estado Sólido
+Este término se usa para denominar la nueva generación de dispositivos de almacenamiento para PCs
+Los tiempos de acceso a los Discos Duro SSD son hasta diez veces más rápidos que los discos duros convencionales, tienen menos desgaste debido a que los discos SSD no tienen partes mecánicas, son sólidos. Los discos duros SSD también desprenden menos calor al alcanzar menos temperatura y no hacen absolutamente ningún ruido.Cuando un servidor lleva discos SSD tiene un acceso mucho más rápido a los datos, por lo que si el servidor es web, los tiempos de respuesta mejoraran considerablemente en las consultas a la base de datos que no estén cargadas en la memoria RAM.
+¿Cómo funciona un disco duro SSD?
+Estos poseen dos zonas de memoria, una en la que se guarda toda la información aunque deje de tener corriente eléctrica y otra, de mucho menor tamaño, que actúa de cache acelerando los accesos. Todo este sistema es gobernado por un controlador que actúa coordinando los distintos elementos.
+Ventajas
+Rapidez. Tanto en la búsqueda de los datos como en las lecturas posteriores. En una unidad de este tipo el tiempo que tienes que esperar hasta obtener el flujo de datos es siempre el mismo. No es necesario desfragmentar ya que estén o no contiguos los datos las unidades funcionan igual de bien.
+Mayor resistencia. Al no tener componentes móviles responden mejor tanto a las vibraciones como a los golpes. Ideales para dispositivos que se vayan a transportar encendidos.
+Menor consumo. Necesitan menos potencia para funcionar. Esto los hace ideales para dispositivos portátiles, además significa que se desgastan menos debido al calor y por lo tanto su vida útil aumenta.
+Menor ruido. Otra ventaja más de no tener partes móviles.
+
+
+SATA(Serial ATA)
+
+Serial Advanced Technology Attachment
+Los discos duros SATA son un tipo concreto de disco duro interno. Consiste en una interfaz de transferencia de datos entre discos duros y la placa base que permite una mayor velocidad, aprovechamiento, capacidad para conectar unidades a la vez y mayor longitud de cable de transmisión de datos
+Características de los discos duros SATA
+Su arquitectura es punto a punto, por lo que la conexión de disco duro y puerto es directa.Los discos duros SATA se conectan directamente al puerto Serial ATA, yendo cada disco de forma independiente y determinando cuál es el de inicio del sistema en la BIOS. Utilizan cables planos y estrechos de 7 hilos para una mayor longitud de cables y refrigeración del sistema.
+Su interior está libre de polvo y aire para evitar choques entre partículas y la posible pérdida de datos por ello. El disco gira todo el tiempo en que permanece encendido.
+La configuración de los discos duros SATA es mucho más sencilla y los dispositivos son mucho más actualizables. Por eso, son los más utilizados.
+Su funcionamiento es muy sencillo, ya que el ordenador envía las señales eléctricas a la bobina electromagnética que se polariza y transmite su magnetismo al disco en movimiento, las partículas magnéticas se reacomodan al pasar por la bobina y la información se almacena como partículas magnéticas ordenadas.
+La capacidad de los discos duros SATA es muy variada, aunque puede llegar a los 6 TB.
+Tipos de discos duros SATA
+Los diferentes tipos de discos duros SATA son los siguientes:
+SATA 1. Tiene una velocidad de hasta 150 MB/s. Su frecuencia es de 1500 MHz. También son llamados SATA 1,5 Gb.
+SATA 2. Tiene una velocidad de hasta 300 MB/s. Su frecuencia es de 3000 MHz. También son llamados SATA 3 Gb.
+SATA 3. Tiene una velocidad de hasta 600 MB/s. Su frecuencia es de 6000 MHz. También son llamados SATA 6 Gb.
+Todos ellos tienen 1 bit/clock y 8 bits/byte.
+
+
+Discos Duros SAS
+
+El disco duro SAS es un dispositivo electromecánico que se encarga de almacenar y leer grandes volúmenes de información a altas velocidades por medio de pequeños electroimanes  (también llamadas cabezas de lectura y escritura), sobre un disco recubierto de limadura magnética. Los discos vienen montados sobre un eje que gira a altas velocidades. El interior del dispositivo está totalmente libre de aire y  de polvo, para evitar choques entre partículas y por ende, pérdida de datos, el disco permanece girando todo el tiempo que se encuentra encendido. Será el sucesor del estándar de discos duros con interfaz paralela SCSI.
+RPM SAS: Significa “Revolutions per Minute” ó vueltas por minuto. Este valor determina la velocidad a la que los discos internos giran cada minuto. Su unidad de medida es: revoluciones por minuto (RPM). Este dato puede ser 7,200 RPM, 10,000 RPM hasta 15,000 RPM.
+Capacidades de almacenamiento SAS: Es el total de Bytes ó símbolos que es capaz de almacenar un disco duro. Su unidad de medida es el Byte, pero actualmente se utilizan medidas como el GigaByte (GB) y el TeraByte (TB). Para discos duros SAS este dato puede estar entre 72 GigaBytes (GB) hasta 2 TeraBytes (TB).
+Velocidad de transferencia: Indica la velocidad de transferencia de datos máxima, expresada en Gb/s (Gigabits/segundo). Un disco duro SAS tiene dentro de sus características lo siguiente: Marca HP®, 600 GB, SFF 2.5 Inch,  Hot Plug*, 6G*, SAS, 10K RPM.     * Este dato indica la velocidad de transferencia de datos, en este caso 6 Gigabits/segundo.
+Beneficios de usar  discos duros SAS
+Al fusionar el rendimiento y la fiabilidad de la interfaz serie con los entornos SCSI existentes, SAS aporta mayor libertad a las soluciones de almacenamiento sin perder la base tradicional sobre la que se construyó el almacenamiento para empresas, otorgando las siguientes características:
+•	Acelera el rendimiento del almacenamiento en comparación con la tecnología SCSI paralela
+•	Garantiza la integridad de los datos
+•	Protege las inversiones en TI
+•	Habilita la flexibilidad en el diseño de sistemas con unidades de disco SATA en un compartimento sencillo
+
+
+Memoria NAND
+
+La memoria NAND es un tipo de memoria Flash cuya denominación hace referencia al tipo de puerta lógica booleana que emplea en su interior. Cuando se comenzó a fabricar, este tipo de memoria podía ser de tipo NOR o NAND, según el tipo de transistor que se empleara en su construcción. Y, aunque las puertas NOR presentaban ciertas ventajas, la memoria fabricada con transistores NAND era más fácil de producir, más barata y con densidades mayores, así que ese es el tipo de memoria Flash que empleamos.
